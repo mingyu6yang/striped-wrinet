@@ -1,3 +1,3 @@
-# strip-wrinet
+# striped-wrinet
 
 Strip WriNet 
