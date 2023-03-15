@@ -1,3 +1,3 @@
 # striped-wrinet
 
-Strip WriNet 
+Striped WriNet 
