@@ -284,5 +284,5 @@ class StripedWriNet(nn.Module):
 
 if __name__ == '__main__':
     input = torch.rand([2,3,256,256])
-    model = StripedWriNet(3,2)
+    model = StripedWriNet(n_channels=3, n_classes=2)
     print(model(input).shape)
