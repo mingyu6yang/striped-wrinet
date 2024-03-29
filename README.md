@@ -1,6 +1,6 @@
 # Striped-Wrinet: Automatic Wrinkle Segmentation Based on Striped Attention Module
 
-Official implementation of [Striped-Wrinet]().
+Official implementation of [Striped-Wrinet](https://www.sciencedirect.com/science/article/pii/S1746809423012508).
 This repository contains code of model.
 
 
